@@ -1,0 +1,10 @@
+{
+  "name": "AI Student Attendance System",
+  "description": "Face Recognition Based Student Attendance system featuring automated face recognition, attendance tracking, student management, and reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
